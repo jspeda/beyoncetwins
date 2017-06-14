@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  background: black;
+}
+
+.question {
+  font-size: 30px;
+  margin-top: 20%;
+  color: white;
+}
+
+.answer {
+  margin-top: 5%;
+  color: white;
+  font-size: 80px;
+}
